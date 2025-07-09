@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch.optim as optim
 from torch_geometric.data import DataLoader, Batch, Data
 from torch_geometric.nn import GATConv, TransformerConv, GraphConv
-from create_dataset import CompoundEyeDataset_CE37
+from dataset import CompoundEyeDataset_CE37
 from sklearn.preprocessing import StandardScaler
 import sys
 import matplotlib.pyplot as plt
