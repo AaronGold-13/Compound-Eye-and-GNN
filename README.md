@@ -4,4 +4,4 @@ This repository contains the model and dataset used in our work:
 
 A. Arngold, Y. Li and X. Ren, "Modeling the Bionic Compound Eye Vision System Based on Graph Neural Networks," in IEEE Sensors Journal, doi: 10.1109/JSEN.2025.3575172.
 
-https://ieeexplore.ieee.org/document/11026775
+Paper is available on IEEE Xplore —> https://ieeexplore.ieee.org/document/11026775.
